@@ -1,7 +1,5 @@
 # Goal Tracker App
-
-
-# Goal Tracker App  
+  
 
 The **Goal Tracker App** is a robust web-based application developed using **Python** and the **Django framework** to facilitate efficient goal management for individuals and teams.  
 
